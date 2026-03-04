@@ -8,7 +8,7 @@
   <h3 style="color: #b0b0b0; font-weight: 400;">Tecnólogo en Análisis y Desarrollo de Software</h3>
 
   <p style="color: #aaa; margin: 8px 0; font-size: 1.1em;">
-    <span style="color: #61DAFB;">Mobile</span> · <span style="color: #9146FF;">Backend</span> · <span style="color: #FF2D20;">Full-Stack</span>
+    <span style="color: #61DAFB;">Mobile</span> · <span style="color: #9146FF;">Backend</span> · <span style="color: #FF2D20;">Frontend</span>
   </p>
 
   <p style="margin: 10px 0;">
